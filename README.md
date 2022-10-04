@@ -1,3 +1,8 @@
+# YaCut
+Сайт для уменьшения длины URL-адресов.
+
+## Установка
+
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
@@ -34,4 +39,9 @@ python3 -m pip install --upgrade pip
 
 ```
 pip install -r requirements.txt
+```
+Запуск:
+
+```
+flask run
 ```
